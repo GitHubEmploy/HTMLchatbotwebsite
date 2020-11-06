@@ -1,2 +1,2 @@
 <?php include_once("home.html"); ?>
-<IMG SRC="images/ailogo.png" ALT="some text" WIDTH=600 HEIGHT=400>
+<link rel="icon" href="https://cdn.discordapp.com/attachments/729758326635888703/774350227108659248/ailogo.png">
